@@ -2,6 +2,8 @@
 
 ### Jetson Inference
 
+[Source](https://github.com/dusty-nv/jetson-inference/blob/master/docs/building-repo-2.md)
+
 ```
 mkdir repos; cd repos
 sudo apt update
