@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-echo "Installing OpenCV 4.5.4 on your Jetson Nano"
+echo "Installing OpenCV 4.5.4 on your Jetson Xavier NX"
 echo "It will take 2.5 hours !"
 
 # reveal the CUDA location
