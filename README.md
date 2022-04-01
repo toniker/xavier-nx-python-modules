@@ -19,4 +19,6 @@ sudo ldconfig
 
 ### OpenCV 4.5.4 CUDA Install
 
+[Source with modifications](https://qengineering.eu/install-opencv-4.5-on-jetson-nano.html)
+
 See `opencv_4.5.4_install.sh`
