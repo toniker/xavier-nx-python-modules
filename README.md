@@ -19,4 +19,4 @@ sudo ldconfig
 
 ### OpenCV 4.5.4 CUDA Install
 
-_todo_
+See `opencv_4.5.4_install.sh`
