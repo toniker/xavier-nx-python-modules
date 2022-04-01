@@ -1,6 +1,7 @@
 # xavier-nx-modules
 
-### Jetson Inference
+### Instructions to install OpenCV 4.5.4 with CUDA Acceleration and Jetson-inference on your Nvidia Jetson Xavier NX
+#### Jetson Inference
 
 [Source](https://github.com/dusty-nv/jetson-inference/blob/master/docs/building-repo-2.md)
 
@@ -17,7 +18,7 @@ sudo make install
 sudo ldconfig
 ```
 
-### OpenCV 4.5.4 CUDA Install
+#### OpenCV 4.5.4 CUDA Install
 
 [Source with modifications](https://qengineering.eu/install-opencv-4.5-on-jetson-nano.html)
 
